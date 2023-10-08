@@ -1,5 +1,5 @@
 - 🧑🏻‍💻 Hi, I am Benjamin Erkel 
-- 👀 I’m interes ted in making fun little programms
+- 👀 I’m interested in making fun little programms
 - 🌱 I’m currently learning the MERN-Stack
 ## My Skills
 
